@@ -1,0 +1,14 @@
+# License
+
+YaiZa-Pro
+AI Network CCTV Automation Engineer
+Version 1.0.0
+
+Copyright (c) 2026 YaiZa Professional
+
+All rights reserved.
+
+This software is provided as-is for authorized use only.
+Unauthorized copying, distribution, or modification is prohibited.
+
+For licensing inquiries, contact: licensing@yaiza.professional
